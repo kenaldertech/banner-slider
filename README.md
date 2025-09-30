@@ -1,4 +1,4 @@
-# 📸 Banner Slider
+# 📸 Banner Slider    
 
 A simple and responsive WordPress plugin that lets you create an image carousel/slider with ease.  
 
